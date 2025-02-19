@@ -1,6 +1,6 @@
 # 🌸 Floralis - Site Web pour Fleuriste
 
-Floralis est une application web moderne et élégante développée avec **React** et **TailwindCSS**. Ce projet a pour but de fournir une interface utilisateur intuitive et réactive pour la vente et la gestion de fleurs en ligne.
+Floralis est un site web moderne et élégante développée avec **React** et **TailwindCSS**. Ce projet a pour but de fournir une interface utilisateur intuitive et réactive pour la vente et la gestion de fleurs en ligne.
 
 ## 🚀 Fonctionnalités
 
